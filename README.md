@@ -75,3 +75,17 @@
 - Dockerを用いたサーバーの可搬性向上
 - Linux環境構築・カーネルプログラミング
 - 簡易的なマイクラコマンド操作
+
+## 開発言語
+- C
+- C++
+- Python
+- C#
+- Verilog
+- Javascript
+- Linux shell
+- Haskell
+- Golang
+- ASM
+
+以上
