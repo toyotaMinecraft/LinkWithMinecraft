@@ -2,7 +2,7 @@
 
 これはコマンド勢公募用リポジトリです。公募終了後閉じます。
 
-本システムはピンクローターとマインクラフトを連携して動作させることができるシステムです。動作の様子についてはFormに添付の動画をご覧ください。システム概要を示したスライド資料を[./slides/resume.pdf](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)に置いておきます。  
+本システムはピンクローターとマインクラフトを連携して動作させることができるシステムです。動作の様子についてはFormに添付の[動画](https://youtu.be/irC6hzXWFoQ)をご覧ください。システム概要を示したスライド資料を[./slides/resume.pdf](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)に置いておきます。  
 
 ![ダウンロード](https://user-images.githubusercontent.com/69086044/89106894-114a7100-d468-11ea-8aaa-633aedd1446e.gif)
 
@@ -63,7 +63,7 @@
      
 
 ## How does it work?
-詳しくまとめた[資料](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)を作ったのでご覧ください。[./slides/resume.pdf](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)に置いておきます。  
+詳しくまとめた[資料](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)を作ったのでご覧ください。[./slides/resume.pdf](https://github.com/toyotaMinecraft/LinkWithMinecraft/tree/master/slides)に置いておきます。また、[動画](https://youtu.be/irC6hzXWFoQ)でも解説しています。  
  
 # 企画に参加してやりたいこと
 
